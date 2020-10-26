@@ -1,0 +1,46 @@
+{
+  "Institutions": [
+    {
+      "InstitutionId": 78923,
+      "Name": "First Credit Union"
+    }
+  ],
+  "Members": [
+    {
+      "MemberId": 234789,
+      "GivenName": "John",
+      "Surname": "Doe",
+      "InstitutionId": 78923,
+      "Accounts": [
+        {
+          "AccountId": 23456,
+          "Balance": 12.5
+        }
+      ]
+    },
+    {
+      "MemberId": 234790,
+      "GivenName": "Jane",
+      "Surname": "Doe",
+      "InstitutionId": 78923,
+      "Accounts": [
+        {
+          "AccountId": 23457,
+          "Balance": 12.5
+        }
+      ]
+    },
+    {
+      "MemberId": 234791,
+      "GivenName": "Tony",
+      "Surname": "Doe",
+      "InstitutionId": 78923,
+      "Accounts": [
+        {
+          "AccountId": 23457,
+          "Balance": 12.5
+        }
+      ]
+    }
+  ]
+}
